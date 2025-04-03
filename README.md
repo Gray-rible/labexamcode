@@ -1,3 +1,4 @@
+submitted by Rupisan
 # Student Management Application
 
 This project is a Student Management Application developed in C#. It provides a user-friendly interface for managing student records, allowing users to view and edit student information.
